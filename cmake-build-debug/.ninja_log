@@ -1,0 +1,20 @@
+# ninja log v5
+1	354	1677530370105691743	CMakeFiles/BankAccountManagement.dir/BankAccount.cpp.o	85fb092e42bdec92
+1	356	1677530370108488505	CMakeFiles/BankAccountManagement.dir/Bank.cpp.o	75c66017882991cf
+0	420	1677530370171190853	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+420	484	1677530370230610536	BankAccountManagement	f1cd04b7f7a9a21b
+5	289	1677530391873346649	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+289	321	1677530391906762708	BankAccountManagement	f1cd04b7f7a9a21b
+2	234	1677530497491485439	CMakeFiles/BankAccountManagement.dir/Bank.cpp.o	75c66017882991cf
+2	261	1677530497519667966	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+261	294	1677530497553879712	BankAccountManagement	f1cd04b7f7a9a21b
+2	290	1677530535236118969	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+290	322	1677530535269616984	BankAccountManagement	f1cd04b7f7a9a21b
+2	240	1677530597501742088	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+240	273	1677530597536035957	BankAccountManagement	f1cd04b7f7a9a21b
+2	279	1677530610091637883	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+279	311	1677530610125356476	BankAccountManagement	f1cd04b7f7a9a21b
+2	276	1677530637770871467	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+276	308	1677530637804372399	BankAccountManagement	f1cd04b7f7a9a21b
+6	275	1677530694651504387	CMakeFiles/BankAccountManagement.dir/main.cpp.o	8e51734051c9ed53
+275	307	1677530694684443375	BankAccountManagement	f1cd04b7f7a9a21b
